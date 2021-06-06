@@ -1,0 +1,29 @@
+
+     [
+      {
+        "id": 1,
+        "name": "John",
+        "phone":"7654893445",
+        "email": "johndoe@abc.com",
+        "password": "datagrokr",
+        "confirmpassword": "datagrokr"
+      },
+      {
+        "id": 2,
+        "name": "Johnnn",
+        "phone":"7654563445",
+        "email": "johnde@abc.com",
+        "password": "data",
+        "confirmpassword": "data"
+      },
+      {
+        "id": 3,
+        "name": "usraj",
+        "phone":"9854893445",
+        "email": "suraj@abc.com",
+        "password": "suraj3",
+        "confirmpassword": "suraj3"
+      }
+     
+    ]
+  

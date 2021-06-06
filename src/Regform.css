@@ -1,0 +1,60 @@
+.primary {
+    text-align: center;
+    color:rgb(19, 18, 18);
+    margin-top: 2.5cm;
+    font-size: 1.5cm;
+}
+  .div{
+      background-color: rgb(75, 238, 184);
+     height: 100%;
+  }
+  .regform{
+      text-align: center;
+     height: 100%;
+     margin-top: 0.5cm;
+  }
+  #submit{
+    color:#FFFFFF;
+    background-color: #f30909;
+    margin-right: auto;
+
+    margin-left: auto;
+    margin-top: 1.5cm;
+    padding: 5px;
+    width:10%;
+
+    font-family: Verdana;
+    font-weight: bold;
+    border-radius:6px;
+}
+#name{
+    width: 20%;
+    border-color: blue;
+    margin-left: 5%;
+}
+#phone{
+    width: 20%;
+    border-color: blue;
+    margin-left: 5%;
+}
+#email{
+    width: 20%;
+    border-color: blue;
+    margin-left: 5.3%;
+}
+#password{
+    width: 20%;
+    border-color: blue;
+    margin-left: 3.6%;
+}
+#confirmpassword{
+    width: 20%;
+    border-color: blue;
+    margin-left: 0%;
+}
+#datastorage{
+    width: 20%;
+    border-color: blue;
+    margin-left: 0.5%;
+}
+
