@@ -1,6 +1,6 @@
-#Frontend:
+# Frontend:
  Reactjs: React is an open-source front-end JavaScript library for building user interfaces or UI components.
-#Backend:
+# Backend:
  Nodejs: Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. 
  
 ## Available Scripts
@@ -20,5 +20,7 @@ You will also see any lint errors in the console.
 Runs the app in the development mode.\
 Open [http://localhost:8000/addUser](http://localhost:8000/addUser) to view it in the browser.
 
-# Create Form with validation
+# Form with validation
+![Screenshot (442)](https://user-images.githubusercontent.com/62341045/120937617-22b97500-c72c-11eb-8e2b-93d092d5c2d2.png)
+ 
 
