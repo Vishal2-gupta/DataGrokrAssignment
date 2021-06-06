@@ -26,11 +26,14 @@ Open [http://localhost:8000/addUser](http://localhost:8000/addUser) to view it i
 # POST request using fetch with async/await
 
 post() method allows you to send asynchronous http POST request to submit and retrieve the data from the server without reloading whole page. Specify type parameter for the type of response data e.g. specify 'JSON' if server return JSON data.
+
 ![Screenshot (443)](https://user-images.githubusercontent.com/62341045/120937723-a8d5bb80-c72c-11eb-93d4-7e1323335e41.png)
 
 # server.js
-![Screenshot (445)](https://user-images.githubusercontent.com/62341045/120937725-ac694280-c72c-11eb-8237-ee6b52a1905f.png)
+
+![Screenshot (444)](https://user-images.githubusercontent.com/62341045/120937726-ae330600-c72c-11eb-94f6-0c8ee9a03a30.png)
 
 # user.json
-![Screenshot (444)](https://user-images.githubusercontent.com/62341045/120937726-ae330600-c72c-11eb-94f6-0c8ee9a03a30.png)
+
+![Screenshot (445)](https://user-images.githubusercontent.com/62341045/120937725-ac694280-c72c-11eb-8237-ee6b52a1905f.png)
 
